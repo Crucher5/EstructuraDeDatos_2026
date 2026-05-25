@@ -1,0 +1,15 @@
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\obj\Debug\net8.0\CalculadoraPoligonos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\obj\Debug\net8.0\CalculadoraPoligonos.AssemblyInfoInputs.cache
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\obj\Debug\net8.0\CalculadoraPoligonos.AssemblyInfo.cs
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\obj\Debug\net8.0\CalculadoraPoligonos.csproj.CoreCompileInputs.cache
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\obj\Debug\net8.0\CalculadoraPoligonos.sourcelink.json
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\bin\Debug\net8.0\CalculadoraPoligonos.exe
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\bin\Debug\net8.0\CalculadoraPoligonos.deps.json
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\bin\Debug\net8.0\CalculadoraPoligonos.runtimeconfig.json
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\bin\Debug\net8.0\CalculadoraPoligonos.dll
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\bin\Debug\net8.0\CalculadoraPoligonos.pdb
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\obj\Debug\net8.0\CalculadoraPoligonos.dll
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\obj\Debug\net8.0\refint\CalculadoraPoligonos.dll
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\obj\Debug\net8.0\CalculadoraPoligonos.pdb
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\obj\Debug\net8.0\CalculadoraPoligonos.genruntimeconfig.cache
+C:\Users\Uri Zaid\Documents\EstructuraDeDatos_2026\CalculadoraPoligonos\obj\Debug\net8.0\ref\CalculadoraPoligonos.dll
